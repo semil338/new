@@ -10,6 +10,6 @@ abstract class shape {
 
 class Rectangle extends shape {
   void draw() {
-    print("Rectangle ");
+    print("Rectangle here");
   }
 }
